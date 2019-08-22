@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-tca9548a-i2c-multiplexer",
+  "title": "tca9548a-i2c-multiplexer",
+  "keywords": "tca9548a-i2c-multiplexer, esp32, esp8266, arduino",
+  "description": "tca9548a-i2c-multiplexer plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-tca9548a-i2c-multiplexer/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-tca9548a-i2c-multiplexer/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
